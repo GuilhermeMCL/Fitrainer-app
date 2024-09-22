@@ -2,18 +2,18 @@ Bem-vindo ao Fittrainer
 Este é um aplicativo mobile desenvolvido em React Native com TypeScript utilizando Expo
 focado em ajudar usuários a gerenciar suas dietas e exercícios de uma academia local onde moro.
 
----------------------Funcionalidades 📱-----------------------------
+Funcionalidades 📱
 Login e Registro: Cadastre-se e acesse sua conta com segurança.
 Tela Home: Acesse rapidamente suas informações e recursos principais. (em desenvolvimento)
 Dietas Personalizadas: Veja e monte seu plano alimentar.(em desenvolvimento)
 Lista de Exercícios: Encontre e registre suas atividades físicas.(em desenvolvimento)
 
-----------------------Tecnologias Utilizadas 🛠️--------------------
+Tecnologias Utilizadas 🛠️
 React Native: Biblioteca para construir apps móveis.
 TypeScript: Para garantir qualidade e segurança no código.
 Expo: Simplifica o processo de desenvolvimento e construção.
 
----------------------Como Contribuir 🤝---------------------------------
+Como Contribuir 🤝
 Faça um clone deste repositório.
 Instale as dependências com npm install.
 Rodar o aplicativo: expo start.
