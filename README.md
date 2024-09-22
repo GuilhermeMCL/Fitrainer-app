@@ -1,4 +1,4 @@
-Bem-vindo ao Fittrainer
+#Bem-vindo ao Fittrainer
 Este é um aplicativo mobile desenvolvido em React Native com TypeScript utilizando Expo
 focado em ajudar usuários a gerenciar suas dietas e exercícios de uma academia local onde moro.
 
