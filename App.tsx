@@ -7,6 +7,6 @@ import Registro from'./SRC/pages/register/Register';
 
 export default function App() {
   return (
-        <Registro/>
+        <Login/>
   );
 }
