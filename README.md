@@ -17,6 +17,8 @@
   - E-mail.
   - Criação e confirmação de senha.
 - Opção para retornar ao login caso já tenha cadastro.
+  
+# PROXIMAS ATUALIZAÇÕES
 
 ### 4. Informações do Usuário
 - Após o registro, os usuários devem preencher dados básicos para personalizar os treinos:
